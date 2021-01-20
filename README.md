@@ -39,13 +39,12 @@ For prior investigations, I have collected experimental data. In this case, I de
 1. **Extensive metadata from all English-language Xiyao works**, which I scraped and cleaned in late November and again in late December. I ended up with 1,469 works in my data set.
 2. **Timestamps and content of AO3 comments on those works**. I scraped the comments of those 1,469 works and got 122,487 total comments. Of those, 588 were comments from the Xiyao Troll that hadn't been deleted (or never let out of the moderation queue).
 
-![Who Would Win Meme - Comments Script or Fic With 4019 Comments](/images/image3.png)
-
 Of these 1469 works, 953 (65%) have anon comments; there were no visible or remaining anon comments on the remaining 516 (35%). 377 works (26% of all scraped works) had comments from the troll still visible when I scraped comments on December 21st. In total, there were 588 comments from the troll on those 377 works; the troll left multiple comments on several multichapter works.
 
-The charts below that deal with comment data will have slightly different numbers from my "raw" anon comment data; I treated comments signed by "wangxian+fan" and "wangxian fan" as Not Anon. (We love you, wangxian+fan...)
+The charts below that deal with comment data will have slightly different numbers from my "raw" anon comment data; I treated comments signed by known anon "wangxian+fan" and "wangxian fan" as Not Anon. 
 
 ![Bar Chart - Overview of Comments by User Type](/images/image1.png)
+
 *Overall commenting patterns broken down by user type - comments from users with accounts (117,471), anon comments from people who are not the troll (4,428), and anon comments from the Xiyao Troll (588).*
 
 
@@ -55,7 +54,8 @@ The Xiyao Troll is quite comprehensive in commenting; if a work is tagged Xiyao 
 ![Primary Relationship Tag on Works with Troll Comments](/images/image4.png)
 
 *For works that had a comment from the Xiyao Troll, this graph shows the count of works with each relationship as first-tagged. Relationships with a count lower than 3 are hidden.*
-As you can see above, 66% of the works that have a visible troll comment feature Xiyao, 3zun, or a 3-zun adjacent ship as their first-tagged pairing, while 33% feature Wangxian or other pairings. While we don't know how representative this is of the total number and span of troll comments, of course, this distribution of primary relationships is very close to that for the broader set of Xiyao works.
+
+66% of the works that have a visible troll comment feature Xiyao, 3zun, or a 3-zun adjacent ship as their first-tagged pairing, while 33% feature Wangxian or other pairings. While we don't know how representative this is of the total number and span of troll comments, of course, this distribution of primary relationships is very close to that for the broader set of Xiyao works.
 
 
 ## Troll Comment Timeline
@@ -79,8 +79,9 @@ As it's not possible to say how many Xiyao Troll comments have already been dele
 
 ![Anonymous Comments on Xiyao Tag by Week](/images/image6.png)
 
-*Number of anonymous comments by week, starting May 24th (Xiyao Troll comments are the orange line, non-troll anon comments are the green line)*
-As you can see here, the Xiyao Troll has been consistently active from the end of May through the beginning of December, although the last comment I have seen from the Xiyao Troll so far was left on December 11. While I heard from one person that the Xiyao Troll went away briefly in early August, the data doesn't seem to bear that out.
+*Number of anonymous comments by week, starting May 24th (Xiyao Troll comments are the orange line, non-troll anon comments are the green line).*
+
+The Xiyao Troll has been consistently active from the end of May through the beginning of December, although the last comment I have seen from the Xiyao Troll so far was left on December 11. While I heard from one person that the Xiyao Troll went away briefly in early August, the data doesn't seem to bear that out.
 
 
 ## Troll Comment Latency
@@ -116,6 +117,7 @@ Comments left at 7am EDT/EST had the longest median latency (3 hours) and third-
 ![Comment Length - Bucketed by Tweet Length](/images/image10.png)
 
 *This histogram shows troll comment character length in 240-char bins; average length was 173 characters. Character count includes HTML tags.*
+
 The majority of the 588 troll comments I scraped are the length of a single tweet. 
 
 
