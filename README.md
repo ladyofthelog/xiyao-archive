@@ -12,7 +12,7 @@
 
 ## About This Project
 
-After several of my friends received harassing comments from the Xiyao troll, I decided that I wanted to get involved in investigating what has been going on while I had time to kill over Thanksgiving break. I worked with @superborb, who added a comments scraper to [my fork the ao3 python package](https://github.com/ladyofthelog/ao3); ~10 friends who read and coded ~5k anonymous comments for Troll / Not Troll / Other; LitMoose, who reviewed my methodology; and others who contributed fandom knowledge and data science expertise. Now that I've reached what I consider a stopping point, I'm writing up my work and archiving assets related to this investigation.
+After several of my friends received harassing comments from the Xiyao troll, I decided that I wanted to get involved in investigating what has been going on while I had time to kill over Thanksgiving break. I worked with @superborb, who added a comments scraper to [my fork of the ao3 python package](https://github.com/ladyofthelog/ao3); ~10 friends who read and coded ~5k anonymous comments for Troll / Not Troll / Other; LitMoose, who reviewed my methodology; and others who contributed fandom knowledge and data science expertise. Now that I've reached what I consider a stopping point, I'm writing up my work and archiving assets related to this investigation.
 
 Archived on Tableau Public
 * [Data Visualizations](https://public.tableau.com/profile/ladyofthelog#!/vizhome/XiyaoTrollInvestigation/XiyaoTrollOverview)
